@@ -1,4 +1,4 @@
-# QuickMenuLobbyName
+# Pause Menu Lobby Name
 
 do you hate forgetting the name of the lobby you were JUST in? yeah, me too. so i made this mod!
 what does it do? it adds a teeny tiny text to the bottom of your pause menu that displays the name of the lobby that you are currently in!!
